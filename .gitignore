@@ -1,0 +1,12 @@
+heroku_dep
+heroku_env
+heroku_deploy
+__pycache__
+db.sqlite3
+.DS_Store
+local_settings.py
+heroku_env/lib/python3.7/site-packages/numpy/.dylibs/libopenblasp-r0.3.7.dylib
+heroku_env/lib/python3.7/site-packages/scipy/.dylibs/libopenblasp-r0.3.7.dylib
+heroku_env/lib/python3.7/site-packages/tensorflow_core/python/_pywrap_tensorflow_internal.so
+heroku_deploy/lib/python3.7/site-packages/tensorflow/python/_pywrap_tensorflow_internal.so
+
